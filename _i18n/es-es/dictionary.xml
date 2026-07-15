@@ -632,7 +632,6 @@ La una SVM que sirve datos abarca todo el sistema Cloud Volumes ONTAP (par de al
   <block id="52797d8e71c2180397961c168612e4b1" category="inline-link-macro">Aprenda a actualizar en AWS con los tipos de instancia C4, M4 y R4 EC2.</block>
   <block id="81a04fd94750bd8d6eba4ddcd31937d5" category="paragraph"><block ref="8c187d79d64725fc1c5fe18120107add" category="inline-link-macro-rx"></block>
 <block ref="3f0e03f473a215943c109dc7746cdb60" category="inline-link-macro-rx"></block>.</block>
-  <block id="b710bbf07a9ba1fa06f2e6f4e77a42db" category="paragraph">Los anchos de banda que se muestran en la tabla siguiente coinciden con los límites de AWS documentados para cada tipo de instancia. Estos límites no están completamente en línea con lo que puede proporcionar Cloud Volumes ONTAP. Para conocer el rendimiento esperado, consulte<block ref="c23654021de34c23e6d408104aa3bf49" category="inline-link-rx"></block>.</block>
   <block id="6b32e99bddf60938239aabe092cb4c16" category="paragraph">Hay varias opciones de licencia disponibles para Cloud Volumes ONTAP. Cada opción le permite elegir un modelo de consumo que cumpla sus necesidades.</block>
   <block id="27fe4eb3edbaff8f250e2d51f7462681" category="inline-link">Paquetes</block>
   <block id="13dba612a4f942a80cbc82c5f678d57c" category="inline-link">Más información acerca de las licencias basadas en capacidad</block>
@@ -644,4 +643,5 @@ La una SVM que sirve datos abarca todo el sistema Cloud Volumes ONTAP (par de al
   <block id="f0de068c81c765820aca0fa8fe017396" category="list-text">Para obtener soporte de región de Azure, consulte<block ref="e55b14db85f4d4837890e415926626e0" category="inline-link-rx"></block>.</block>
   <block id="ef9be83cb59b0572a3581a6724316e48" category="list-text">Para obtener información sobre el soporte de región de Google Cloud Platform, consulte<block ref="e55b14db85f4d4837890e415926626e0" category="inline-link-rx"></block>.</block>
   <block id="26f113c6240bf0450440356676516cf1" category="paragraph"><block ref="26f113c6240bf0450440356676516cf1" category="inline-link-rx"></block></block>
+  <block id="fb83bdf454bf964031306f46d967b051" category="paragraph">Los anchos de banda mostrados en la siguiente tabla coinciden con los límites documentados de AWS para cada tipo de instancia. Estos límites no coinciden completamente con lo que Cloud Volumes ONTAP puede proporcionar. Para el rendimiento esperado, consulta<block ref="f9e25e1e3616de01564541c204317f8f" category="inline-link-rx"></block>.</block>
 </blocks>

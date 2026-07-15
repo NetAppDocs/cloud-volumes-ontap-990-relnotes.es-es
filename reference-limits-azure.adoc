@@ -18,6 +18,7 @@ Cloud Volumes ONTAP tiene límites de configuración de almacenamiento para prop
 
 
 
+[[maximum-system-capacity-by-license]]
 == Capacidad máxima del sistema por licencia
 
 La capacidad máxima del sistema para un sistema Cloud Volumes ONTAP viene determinada por su licencia. La capacidad máxima del sistema incluye almacenamiento basado en disco y almacenamiento de objetos utilizado para la organización en niveles de datos.
@@ -51,6 +52,7 @@ El límite de capacidad corresponde a todo el par de alta disponibilidad. No es 
 
 
 
+[[disk-and-tiering-limits-by-vm-size]]
 == Límites de discos y almacenamiento por niveles por tamaño de equipo virtual
 
 Los límites de discos que figuran a continuación son específicos de los discos que contienen datos de usuario. Los límites no incluyen el disco raíz, el disco principal y el VNVRAM.
@@ -66,6 +68,7 @@ NOTE: Puede comprar varias licencias basadas en nodos para un sistema de nodo ú
 
 
 
+[[single-node-with-a-premium-license]]
 === Un solo nodo con una licencia Premium
 
 [cols="14,20,31,33"]
@@ -95,6 +98,7 @@ NOTE: Puede comprar varias licencias basadas en nodos para un sistema de nodo ú
 |===
 
 
+[[single-node-with-node-based-licensing]]
 === Un único nodo con licencia basada en nodos
 
 [cols="10,18,18,18,18,18"]
@@ -145,6 +149,7 @@ NOTE: Puede comprar varias licencias basadas en nodos para un sistema de nodo ú
 |===
 
 
+[[single-node-with-capacity-based-licensing]]
 === Un único nodo con licencias basadas en capacidad
 
 [cols="14,20,31,33"]
@@ -192,6 +197,7 @@ NOTE: Puede comprar varias licencias basadas en nodos para un sistema de nodo ú
 |===
 
 
+[[ha-pairs-with-a-premium-license]]
 === Pares de ALTA DISPONIBILIDAD con una licencia Premium
 
 [cols="14,20,31,33"]
@@ -218,6 +224,7 @@ NOTE: Puede comprar varias licencias basadas en nodos para un sistema de nodo ú
 |===
 
 
+[[ha-pairs-with-node-based-licensing]]
 === Pares de ALTA DISPONIBILIDAD con licencia basada en nodos
 
 [cols="10,18,18,18,18,18"]
@@ -253,6 +260,7 @@ NOTE: Puede comprar varias licencias basadas en nodos para un sistema de nodo ú
 |===
 
 
+[[ha-pairs-with-capacity-based-licensing]]
 === Pares de ALTA DISPONIBILIDAD con licencias basadas en capacidad
 
 [cols="14,20,31,33"]
@@ -285,6 +293,7 @@ NOTE: Puede comprar varias licencias basadas en nodos para un sistema de nodo ú
 |===
 
 
+[[aggregate-limits]]
 == Límites del agregado
 
 Cloud Volumes ONTAP usa almacenamiento de Azure como discos y los agrupa en _agregados_. Los agregados proporcionan almacenamiento para volúmenes.
@@ -314,6 +323,7 @@ Notas:
 
 
 
+[[storage-vm-limits]]
 == Límites de máquinas virtuales de almacenamiento
 
 Algunas configuraciones le permiten crear máquinas virtuales de almacenamiento (SVM) adicionales para Cloud Volumes ONTAP.
@@ -359,6 +369,7 @@ Los equipos virtuales de almacenamiento que configure para la recuperación ante
 
 
 
+[[file-and-volume-limits]]
 == Límites de archivos y volúmenes
 
 [cols="22,22,56"]
@@ -402,6 +413,7 @@ Notas:
 
 
 
+[[iscsi-storage-limits]]
 == Límites de almacenamiento de iSCSI
 
 [cols="3*"]
